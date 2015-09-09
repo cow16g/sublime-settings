@@ -1,0 +1,36 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"GotoDocumentation",
+		"HTML5",
+		"Japanize",
+		"jQuery",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Phpcs",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Sublimerge Pro",
+		"Tag",
+		"Terminal"
+	]
+}
