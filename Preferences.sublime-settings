@@ -8,7 +8,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "smooth",
 	"close_window_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"draw_indent_guides": true,

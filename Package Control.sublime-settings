@@ -14,12 +14,16 @@
 		"CTags",
 		"DocBlockr",
 		"Emmet",
+		"Evernote",
 		"Goto-CSS-Declaration",
 		"GotoDocumentation",
 		"HTML5",
 		"Japanize",
 		"jQuery",
+		"Markdown Extended",
+		"Monokai Extended",
 		"Nettuts+ Fetch",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"Phpcs",
 		"SFTP",
@@ -30,7 +34,9 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Sublimerge Pro",
+		"Table Editor",
 		"Tag",
-		"Terminal"
+		"Terminal",
+		"TrailingSpaces"
 	]
 }
