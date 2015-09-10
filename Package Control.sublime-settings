@@ -15,6 +15,7 @@
 		"DocBlockr",
 		"Emmet",
 		"Evernote",
+		"Go To Definition",
 		"Goto-CSS-Declaration",
 		"GotoDocumentation",
 		"HTML5",
@@ -36,7 +37,6 @@
 		"Sublimerge Pro",
 		"Table Editor",
 		"Tag",
-		"Terminal",
 		"TrailingSpaces"
 	]
 }

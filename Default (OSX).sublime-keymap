@@ -1,0 +1,14 @@
+[
+    {
+        "keys": ["shift+command+m"],
+        "command": "goto_definition"
+    },
+    {
+        "keys": ["shift+command+left"],
+        "command": "jump_back",
+    },
+    {
+        "keys": ["shift+command+right"],
+        "command": "jump_forward",
+    },
+]

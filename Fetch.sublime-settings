@@ -5,6 +5,8 @@
 	},
 	"packages":
 	{
+		"cakephp": "https://github.com/cakephp/cakephp/archive/3.0.12.zip",
+		"codeigniter": "https://github.com/bcit-ci/CodeIgniter/archive/3.0.1.zip",
 		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
 		"wp-latest": "http://ja.wordpress.org/latest-ja.zip"
 	}
