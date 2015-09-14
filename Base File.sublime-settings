@@ -1,4 +1,5 @@
 {
   "alignment_chars": ["=",":"],
   "mid_line_tabs":true,
+  "jsdocs_extend_double_slash": false,
 }
