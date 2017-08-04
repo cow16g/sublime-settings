@@ -1,0 +1,9 @@
+{
+    "env": {
+        "GOPATH": "/Users/imamurakazuki/go",
+        "PATH": "$GOPATH/bin:$PATH"
+    },
+    "shell": ["/bin/bash", "--login", "-c", "$CMD"],
+    "fmt_cmd": ["goimports"],
+    "comp_lint_enabled": false,
+}

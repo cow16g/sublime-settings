@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Tag"
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Evernote",
+		"GoSublime",
+		"Goto-CSS-Declaration",
+		"GotoDocumentation",
+		"HTML5",
+		"Japanize",
+		"jQuery",
+		"Markdown Extended",
+		"Monokai Extended",
+		"Nettuts+ Fetch",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Phpcs",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
+		"Sublimerge Pro",
+		"Table Editor",
+		"Tag",
+		"TrailingSpaces"
+	]
+}
