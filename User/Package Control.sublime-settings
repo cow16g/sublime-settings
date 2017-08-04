@@ -31,6 +31,7 @@
 		"Phpcs",
 		"SFTP",
 		"SideBarEnhancements",
+		"Smarty",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
