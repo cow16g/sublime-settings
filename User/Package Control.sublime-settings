@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Tag"
 	],
 	"installed_packages":
 	[
@@ -10,6 +9,7 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"Codecs33",
 		"ColorPicker",
 		"ConvertToUTF8",
 		"CSS Snippets",
@@ -42,7 +42,6 @@
 		"SublimeLinter-phpmd",
 		"Sublimerge Pro",
 		"Table Editor",
-		"Tag",
 		"TrailingSpaces"
 	]
 }
